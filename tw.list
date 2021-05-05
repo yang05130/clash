@@ -1,3 +1,9 @@
 # > friDay
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
+# > Line TV
+USER-AGENT,LINE%20TV*
+USER-AGENT,LINE*
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,linetv.tw

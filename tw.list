@@ -8,3 +8,15 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,profile.line-scdn.net
+# TikTok
+USER-AGENT,TikTok*
+DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com

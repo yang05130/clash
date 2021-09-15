@@ -82,3 +82,6 @@ DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
+
+# > 流媒体终点站服务器
+DOMAIN,emby.wtf

@@ -81,3 +81,6 @@ DOMAIN,sg.jmsooo.com
 
 # > 流媒体终点站服务器
 DOMAIN-SUFFIX,emby.wtf
+
+# > 流媒体nebula服务器
+DOMAIN-SUFFIX,nebula-emby.com

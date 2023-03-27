@@ -84,3 +84,6 @@ DOMAIN-SUFFIX,emby.wtf
 
 # > 流媒体nebula服务器
 DOMAIN-SUFFIX,nebula-emby.com
+
+# > 流媒体莫高雷mulgore服务器
+DOMAIN-SUFFIX,mulgore.net

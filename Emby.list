@@ -53,7 +53,7 @@ DOMAIN,pornemby.club
 DOMAIN,emby.immtel.com
 
 # > 流媒体Odyssey服务器
-#DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 
 # > 流媒体Exflux服务器
 DOMAIN,line.emby.men

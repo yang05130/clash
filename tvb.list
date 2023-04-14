@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN,content.jwplatform.com
 DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,challengers.cloudflare.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net

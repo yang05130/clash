@@ -87,3 +87,6 @@ DOMAIN-SUFFIX,nebula-emby.com
 
 # > 流媒体莫高雷mulgore服务器
 DOMAIN-SUFFIX,mulgore.net
+
+# > 流媒体纸片人
+DOMAIN,embyplus.org

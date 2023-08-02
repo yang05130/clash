@@ -5,6 +5,17 @@ DOMAIN-SUFFIX,cnnic.rip
 DOMAIN-SUFFIX,cmlive.us
 # 小说站点
 DOMAIN,www.33yqxss.com
+DOMAIN,33yqxss.com
+DOMAIN,m.33yqxss.com
+DOMAIN,www.bus6.com
+DOMAIN,bus6.com
+DOMAIN,www.xqikuaiwx.com
+DOMAIN,xqikuaiwx.com
+DOMAIN,www.xlwxs9.com
+DOMAIN,xlwxs9.com
+DOMAIN-SUFFIX,bus6.com
+DOMAIN-SUFFIX,xqikuaiwx.com
+DOMAIN-SUFFIX,xlwxs9.com
 DOMAIN-SUFFIX,wanyuge.com
 DOMAIN-SUFFIX,tstdoors.com
 DOMAIN-SUFFIX,zwwx.org

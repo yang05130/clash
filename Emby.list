@@ -101,3 +101,7 @@ DOMAIN-SUFFIX,imetyou.top
 # > 私人影院
 DOMAIN-SUFFIX,agon.cf
 DOMAIN-SUFFIX,viper.pub
+
+
+# > dolphin emby
+DOMAIN-SUFFIX,emby.ws

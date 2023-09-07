@@ -5,12 +5,12 @@ DOMAIN-SUFFIX,cnnic.rip
 DOMAIN-SUFFIX,cmlive.us
 # 小说站点
 DOMAIN,13800100.org
-#DOMAIN,33yqxss.net
-#DOMAIN,www.33yqxss.net
-#DOMAIN,m.33yqxss.net
-#DOMAIN,www.33yqxss.com
-#DOMAIN,33yqxss.com
-#DOMAIN,m.33yqxss.com
+DOMAIN,33yqxss.net
+DOMAIN,www.33yqxss.net
+DOMAIN,m.33yqxss.net
+DOMAIN,www.33yqxss.com
+DOMAIN,33yqxss.com
+DOMAIN,m.33yqxss.com
 DOMAIN,www.bus6.com
 DOMAIN,bus6.com
 DOMAIN,www.xqikuaiwx.com

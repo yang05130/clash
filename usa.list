@@ -8,7 +8,7 @@ DOMAIN,cdn.auth0.com
 DOMAIN,033249.ingest.sentry.io
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIXidentrust.com
+DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,intercom.io

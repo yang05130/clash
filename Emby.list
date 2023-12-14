@@ -105,3 +105,6 @@ DOMAIN-SUFFIX,viper.pub
 
 # > dolphin emby
 DOMAIN-SUFFIX,emby.ws
+
+# > prisms
+DOMAIN-SUFFIX,prisms.cc

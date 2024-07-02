@@ -1,3 +1,4 @@
 # 代理小说站点
 DOMAIN-SUFFIX,69shuba.pro
 DOMAIN-SUFFIX,69yuedu.net
+SRC-IP-CIDR,43.207.254.98/32,no-resolve
